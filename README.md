@@ -4,7 +4,7 @@ A small but structured software project that reproduces and mitigates a **mixed-
 
 Example failure:
 - Input chat is in English
-- Bad generated title becomes `8-bit Computer Project点评`
+- Bad generated title becomes `8-bit Computer Project点评` (This is the exact title the AI I was using generated, which motivated me to take initiative with this project) 
 - Pipeline catches the wrong script and regenerates a clean English title
 
 ## What this project is
